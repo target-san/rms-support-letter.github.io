@@ -146,4 +146,4 @@ Signed,
 
 [Sergei Shilin](https://github.com/GutsyHeart)
 
-[Adam Katz](https://github.com/dial8gue)
+[Igor Baidiuk](https://github.com/target-san)
